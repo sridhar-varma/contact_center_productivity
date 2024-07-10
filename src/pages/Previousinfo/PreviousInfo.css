@@ -1,0 +1,25 @@
+.previous-info {
+    margin: 20px;
+  }
+  
+  .previous-info h2 {
+    color: #fff;
+  }
+  
+  .previous-info table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .previous-info th,
+  .previous-info td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  .previous-info th {
+    background-color: #333;
+    color: #fff;
+  }
+  
